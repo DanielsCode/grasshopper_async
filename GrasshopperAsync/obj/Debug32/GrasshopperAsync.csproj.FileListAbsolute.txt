@@ -1,0 +1,7 @@
+C:\Users\dsiegel\Developer\github\backgroundworker\GrasshopperAsync\GrasshopperAsync\bin\GrasshopperAsync.dll
+C:\Users\dsiegel\Developer\github\backgroundworker\GrasshopperAsync\GrasshopperAsync\bin\GrasshopperAsync.pdb
+C:\Users\dsiegel\Developer\github\backgroundworker\GrasshopperAsync\GrasshopperAsync\obj\Debug32\GrasshopperAsync.csprojResolveAssemblyReference.cache
+C:\Users\dsiegel\Developer\github\backgroundworker\GrasshopperAsync\GrasshopperAsync\obj\Debug32\GrasshopperAsync.BackgroundForm.resources
+C:\Users\dsiegel\Developer\github\backgroundworker\GrasshopperAsync\GrasshopperAsync\obj\Debug32\GrasshopperAsync.csproj.GenerateResource.Cache
+C:\Users\dsiegel\Developer\github\backgroundworker\GrasshopperAsync\GrasshopperAsync\obj\Debug32\GrasshopperAsync.dll
+C:\Users\dsiegel\Developer\github\backgroundworker\GrasshopperAsync\GrasshopperAsync\obj\Debug32\GrasshopperAsync.pdb
